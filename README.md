@@ -21,7 +21,7 @@ para possíveis soluções.
 
 O projeto acompanha um arquivo **requirements.txt**, que pode ser instalado executando o comandos: 
 
-    "**pip install -r requirements.txt**".
+    pip install -r requirements.txt
 <hr>
 
 Uma recomendação seria acessar a documentação do Plotly, pois nela será possível entender, além de customizar o projeto
